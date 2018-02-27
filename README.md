@@ -8,7 +8,7 @@ Regardless of where your money physically resides, you need to have a plan on ho
 
 This application enforces this behavior by associating every transaction to a single Account (physical location) and a single Envelope (allocation).  That way, you always know, for example, exactly how much you have in your checking account (physical location) and how much you have left to spend on groceries for the month (allocation).
 
-You start with empty Accounts and Envelopes.  You fill them by adding positive transactions.  You deplete them with negative transactions.  Additionally, you can transfer funds between accounts (e.g. ATM withdrawal is a transfer from your 'checking' account to your 'cash' account) or between envelopes (e.g. distributing funds from your 'income' envelope to all your other envelopes during your monthly budgets).  Each transfer with link two transactions (updating one with automatically update the other).
+You start with empty Accounts and Envelopes.  You fill them by adding positive transactions.  You deplete them with negative transactions.  Additionally, you can transfer funds between accounts (e.g. ATM withdrawal is a transfer from your 'checking' account to your 'cash' account) or between envelopes (e.g. distributing funds from your 'income' envelope to all your other envelopes during your monthly budgets).  Each transfer will link two transactions (updating one will automatically update the other).
 
 ### Getting Started
 1) Install the latest version of Java; see https://www.java.com/en/download/
@@ -45,7 +45,7 @@ change password \<pw\>\
 
 For example, if you wanted to create a new category named 'big purchases', send the message "new category big-purchases" (or "new cat big-purchases" for short) to the 'envelopes' Gmail address, and this application will respond with a message saying your new category was created.
 
-If you wish to add a transaction that reflect you spending cash on a video game, you would use the "<acct> <env> <amt> (desc)" command and it would look something like "cash entertainment -39.99 Space Invader video game from GameSpot".
+If you wish to add a transaction that reflect you spending cash on a video game, you would use the "\<acct\> \<env\> \<amt\> (desc)" command and it would look something like "cash entertainment -39.99 Space Invader video game from GameSpot".
 
 Try sending the word "categories" or "cat" for short and see what it returns.
 
