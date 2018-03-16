@@ -21,12 +21,12 @@ You start with empty Accounts and Envelopes.  You fill them by adding positive t
 
 ### Remote Access
 
-You may add transactions and make queries remotely after setting up a dedicated Gmail account.  See https://accounts.google.com/SignUp?hl=en to set one up now.  Once established log into this account from the Admin tab of the Envelopes Console.  While the Gmail Server is running, every message sent to the Gmail account will be pulled by this application and interpreted as a command.  When sending a message (text or email) from a sources for the first time, you must send your username followed by your password to authenticate that source.  After that, every message is interpreted as follows.
+You may add transactions and make queries remotely after setting up a dedicated Gmail account.  See https://accounts.google.com/SignUp?hl=en to set one up now.  Once established, log into this account from the Admin tab of the Envelopes Console.  While the Gmail Server is running, every message sent to the Gmail account will be pulled by this application and interpreted as a command.  When sending a message (text or email) from a sources for the first time, you must send your username followed by your password to authenticate that source.  After that, every message is interpreted as follows.
 
 USAGES:
 
 --create--\
-new acc/cat/env <name>\
+new acc/cat/env \<name\>\
 new env \<name\> (cat)\
 new user \<name\> <password>\
 \<acct\> [\<env\> \<amt\> (desc), ...]
