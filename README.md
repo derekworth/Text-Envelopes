@@ -1,4 +1,6 @@
-# Family-Envelopes  ![alt text](https://github.com/derekworth/Famliy-Envelopes/blob/master/lib/e300.png "Envelopes Logo")
+![alt text](https://github.com/derekworth/Famliy-Envelopes/blob/master/lib/e300.png "Envelopes Logo")
+
+# Family-Envelopes
 
 A simple, yet robust way to track all financial activities in your life.
 
