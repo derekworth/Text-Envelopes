@@ -24,7 +24,9 @@ First, you will need to enable port forwarding from your home router to the comp
 1) Login to your router
 2) Navigate to your router's __port forwarding__ section, also frequently called __virtual server__
 3) Create the port forwarding entry (to private IP address over __port 8456__)
+
 Next, you will need the App
+
 4) From the Apple App Store, install Envelopes (i.e. the remote client)
 5) From the computer running the Envelopes server, open a browser and navigate to https://www.whatismyip.com/ to identify your public IPv4 address--this will be the IP address you enter in the App
 6) In the App, enter your username, password, and IP address (make sure you click the __Done__ button to save for each field)
