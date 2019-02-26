@@ -1,6 +1,6 @@
 ![alt text](https://github.com/derekworth/Text-Envelopes/blob/master/lib/e300.png "Envelopes Logo")
 
-# Family-Envelopes
+# Text-Envelopes
 
 A simple, yet robust way to track all financial activities in your life.
 
