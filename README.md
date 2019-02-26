@@ -19,8 +19,20 @@ You start with empty Accounts and Envelopes.  You fill them by adding positive t
 5) Add other users who will share financial responsibilities in your household (e.g. spouse)
 6) Add transactions and transfers to keep your finances up-to-date
 
-### Remote Access
+### Remote Access (via iPhone App)
+First, you will need to enable port forwarding from your home router to the computer running the Envelopes server.
+1) Login to your router
+2) Navigate to your router's #port forwarding# section, also frequently called #virtual server#
+3) Create the port forwarding entry (to private IP address over #port 8456#)
+Next, you will need the App
+4) From the Apple App Store, install Envelopes (i.e. the remote client)
+5) From the computer running the Envelopes server, open a browser and navigate to https://www.whatismyip.com/ to identify your public IPv4 address--this will be the IP address you enter in the App
+6) In the App, enter your username, password, and IP address (make sure you click the #Done# button to save for each field)
+7) Test your connection by sending #help# from the App... and that's is, you are connected!
+NOTE: You may need to adjust firewall rules within your network to allow Envelopes network traffic.
 
+
+### Remote Access (via text/email)
 You may add transactions and make queries remotely after setting up a dedicated Gmail account.  See https://accounts.google.com/SignUp?hl=en to set one up now.  Once established, log into this account from the Admin tab of the Envelopes Console.  While the Gmail Server is running, every message sent to the Gmail account will be pulled by this application and interpreted as a command.  When sending a message (text or email) from a sources for the first time, you must send your username followed by your password to authenticate that source.  After that, every message is interpreted as follows.
 
 USAGES:
