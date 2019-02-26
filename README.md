@@ -30,7 +30,8 @@ Next, you will need the App
 4) From the Apple App Store, install Envelopes (i.e. the remote client) ![alt text](https://github.com/derekworth/Famliy-Envelopes/blob/master/lib/e40.png "Envelopes Logo")
 5) From the computer running the Envelopes server, open a browser and navigate to https://www.whatismyip.com/ to identify your public IPv4 address--this will be the IP address you enter in the App
 6) In the App, enter your username, password, and IP address (make sure you click the __Done__ button to save for each field)
-7) Test your connection by sending __help__ from the App... and that's is, you are connected!
+7) Test your connection by sending __help__ from the App... and that's it, you are connected! See below for usages.
+
 NOTE: You may need to adjust firewall rules within your network to allow Envelopes network traffic.
 
 
