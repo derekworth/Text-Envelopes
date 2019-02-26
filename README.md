@@ -22,7 +22,7 @@ You start with empty Accounts and Envelopes.  You fill them by adding positive t
 ### Remote Access (via iPhone App)
 First, you will need to enable port forwarding from your home router to the computer running the Envelopes server.
 1) Login to your router
-2) Navigate to your router's #port forwarding# section, also frequently called __virtual server__
+2) Navigate to your router's __port forwarding__ section, also frequently called __virtual server__
 3) Create the port forwarding entry (to private IP address over __port 8456__)
 Next, you will need the App
 4) From the Apple App Store, install Envelopes (i.e. the remote client)
