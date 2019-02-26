@@ -23,7 +23,7 @@ You start with empty Accounts and Envelopes.  You fill them by adding positive t
 First, you will need to enable port forwarding from your home router to the computer running the Envelopes server.
 1) Login to your router
 2) Navigate to your router's __port forwarding__ section, also frequently called __virtual server__
-3) Create the port forwarding entry (to private IP address over __port 8456__)
+3) Create the port forwarding entry that points traffic to the computer running your Envelopes server (to private IP address over __port 8456__)
 
 Next, you will need the App
 
