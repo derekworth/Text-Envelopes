@@ -68,4 +68,4 @@ Try sending the word "categories" or "cat" for short and see what it returns.
 
 If you have any questions about this application, recommendations for improvement, or just want to share your experience with it, I'd love to hear from you, derek84worth@gmail.com.  I hope you enjoy using this application!
 
-Last Updated: 2019-03-12
+Last Updated: 2019-03-13
