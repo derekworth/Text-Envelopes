@@ -37,9 +37,6 @@ Next, you will need the App
 NOTE: You may need to adjust firewall rules within your network to allow Envelopes network traffic.
 
 
-### Remote Access (via text/email)
-You may add transactions and make queries remotely after setting up a dedicated Gmail account.  See https://accounts.google.com/SignUp?hl=en to set one up now.  Once established, log into this account from the Admin tab of the Envelopes Console.  While the Gmail Server is running, every message sent to the Gmail account will be pulled by this application and interpreted as a command.  When sending a message (text or email) from a sources for the first time, you must send your username followed by your password to authenticate that source.  After that, every message is interpreted as follows.
-
 USAGES:
 (optional), [1 or more], \<replace\>
 
@@ -75,4 +72,4 @@ Try sending the word "categories" or "cat" for short and see what it returns.
 
 If you have any questions about this application, recommendations for improvement, or just want to share your experience with it, I'd love to hear from you, derek84worth@gmail.com.  I hope you enjoy using this application!
 
-Last Updated: 2020-01-01
+Last Updated: 2020-09-03
