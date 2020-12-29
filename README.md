@@ -64,7 +64,7 @@ remove acc/cat/env/user \<name\>\
 change password \<pw\>\
 \<env\> \<cat\>
 
-For example, if you wanted to create a new category named 'big purchases', send the message "new category big-purchases" (or "new cat big-purchases" for short) to the 'envelopes' Gmail address, and this application will respond with a message saying your new category was created.
+For example, if you wanted to create a new category named 'big purchases', send the message "new category big-purchases" (or "new cat big-purchases" for short), and this application will respond with a message saying your new category was created.
 
 If you wish to add a transaction that reflect you spending cash on a video game, you would use the "\<acct\> \<env\> \<amt\> (desc)" command and it would look something like "cash entertainment -39.99 Space Invader video game from GameSpot".
 
