@@ -29,7 +29,7 @@ First, you will need to enable port forwarding from your home router to the comp
 
 Next, you will need the App
 
-4) From the Apple App Store, install Envelopes (i.e. the remote client) ![alt text](https://github.com/derekworth/Text-Envelopes/blob/master/lib/e40.png "Envelopes Logo")
+4) Install Envelopes.ipa (i.e. the remote client) ![alt text](https://github.com/derekworth/Text-Envelopes/blob/master/lib/e40.png "Envelopes Logo") using the directions posted here: https://docs.monaca.io/en/products_guide/monaca_ide/deploy/non_market_deploy/
 5) From the computer running the Envelopes server, open a browser and navigate to https://www.whatismyip.com/ to identify your public IPv4 address--this will be the IP address you enter in the App
 6) In the App, enter your username, password, and IP address (make sure you click the __Done__ button to save for each field)
 7) Test your connection by sending __help__ from the App... and that's it, you are connected! See below for usages.
@@ -72,4 +72,4 @@ Try sending the word "categories" or "cat" for short and see what it returns.
 
 If you have any questions about this application, recommendations for improvement, or just want to share your experience with it, I'd love to hear from you, derek84worth@gmail.com.  I hope you enjoy using this application!
 
-Last Updated: 2020-09-03
+Last Updated: 2020-12-29
