@@ -27,9 +27,9 @@ First, you will need to enable port forwarding from your home router to the comp
 2) Navigate to your router's __port forwarding__ section, also frequently called __virtual server__
 3) Create the port forwarding entry that points traffic to the computer running your Envelopes server (to private IP address over __port 8456__)
 
-Next, you will need the App
+Next, you will need to install and configure the App
 
-4) Install Envelopes.ipa (i.e. the remote client) ![alt text](https://github.com/derekworth/Text-Envelopes/blob/master/lib/e40.png "Envelopes Logo") using the directions posted here: https://docs.monaca.io/en/products_guide/monaca_ide/deploy/non_market_deploy/
+4) Install the Envelopes.ipa file (i.e. the remote client) ![alt text](https://github.com/derekworth/Text-Envelopes/blob/master/lib/e40.png "Envelopes Logo") using the directions posted here: https://docs.monaca.io/en/products_guide/monaca_ide/deploy/non_market_deploy/
 5) From the computer running the Envelopes server, open a browser and navigate to https://www.whatismyip.com/ to identify your public IPv4 address--this will be the IP address you enter in the App
 6) In the App, enter your username, password, and IP address (make sure you click the __Done__ button to save for each field)
 7) Test your connection by sending __help__ from the App... and that's it, you are connected! See below for usages.
